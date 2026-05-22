@@ -1,0 +1,11 @@
+{
+  "name": "OneDrive Over-Quota Reporting (Fast Graph Scan)",
+  "description": "High-performance tenant-wide detection of OneDrive sites exceeding quota using Microsoft Graph.",
+  "products": ["Microsoft 365", "OneDrive", "Microsoft Graph"],
+  "categories": ["Admin", "Reporting"],
+  "tags": ["PowerShell","Graph","OneDrive","Storage","Admin"],
+  "type": "sample",
+  "languages": ["PowerShell"],
+  "url": "https://github.com/salarson/onedrive-overquota-report",
+  "created": "2026-05-22"
+}
